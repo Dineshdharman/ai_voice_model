@@ -1,0 +1,5 @@
+requirements
+
+llama 3.1
+vosk model - 0.22 us
+vosk model - 0.5 in
